@@ -1,0 +1,11 @@
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\bin\Debug\Blackjack Game.exe.config
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\bin\Debug\Blackjack Game.exe
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\bin\Debug\Blackjack Game.pdb
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\obj\Debug\Blackjack Game.csprojAssemblyReference.cache
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\obj\Debug\Blackjack_Game.FrmHome.resources
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\obj\Debug\Blackjack_Game.Properties.Resources.resources
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\obj\Debug\Blackjack Game.csproj.GenerateResource.cache
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\obj\Debug\Blackjack Game.csproj.CoreCompileInputs.cache
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\obj\Debug\Blackjack Game.exe
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\obj\Debug\Blackjack Game.pdb
+E:\SchoolofIT\CSharp\WinForms\Blackjack Game\Blackjack Game\obj\Debug\Blackjack_Game.FrmGame.resources
